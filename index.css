@@ -61,3 +61,11 @@ nav{
 .show-links{
     height:10rem;
 }
+
+ul{
+    list-style-type:none;
+}
+
+a{
+    text-decoration:none;
+}
